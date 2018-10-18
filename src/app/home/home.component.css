@@ -1,6 +1,5 @@
 .Info{
     display: inline-flex;
-    flex-flow: row wrap;
 }
 
 .UserInfo{
@@ -37,7 +36,6 @@ mat-card{
 
     .Leaderboard{
         margin: 2rem;
-        width: 70rem;
     }
 
     .Topics{
