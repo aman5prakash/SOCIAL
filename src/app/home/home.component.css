@@ -6,10 +6,6 @@
     display: inline-flex;
 }
 
-.User{
-    display: inline-flex;
-}
-
 img{
     width: 10rem;
 }
@@ -20,4 +16,8 @@ h2{
 
 .Topics{
     display: inline-flex;
+}
+
+.Leaderboard{
+    margin: 2rem;
 }
